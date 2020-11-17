@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+
+.post-box{
+  border: 1px dotted white;
+  display: block;
+  width: 100%;
+}
+
+.post-box p{
+  word-break: break-all;
+}
